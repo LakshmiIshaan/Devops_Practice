@@ -1,1 +1,1 @@
-third file 3.txt is created using nano command
+third file created using nano
