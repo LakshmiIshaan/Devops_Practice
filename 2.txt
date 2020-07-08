@@ -1,1 +1,3 @@
 the secong file is also created using nano command 
+
+adding some text to see the changes
